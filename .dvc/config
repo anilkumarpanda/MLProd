@@ -1,0 +1,4 @@
+['remote "myremote"']
+url = /Users/anilkumarpanda/PycharmProjects/MLProd/data
+[core]
+remote = myremote
